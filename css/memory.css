@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(137, 54, 162);
+}
+.user{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+.big{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 70vw;
+    margin-left: 2%;
+}
+.card{
+    width: 15%;
+    font-size: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.right{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: xx-large;
+    margin-left: 5%;
+    margin-top: 17%;
+}
+.timer{
+    margin-bottom: 20%;
+}
+.t{
+    margin-top: 4%;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(10, 177, 177);
+}
+.p{
+    margin-top: 4%;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(10, 177, 177);
+}
